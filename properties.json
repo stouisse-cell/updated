@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "elaf-sky-view-2bd-62m2-kenitra",
+    "title": "Elaf Sky View — 2 bedroom apartment, 62 m²",
+    "titleFr": "Elaf Sky View — appartement 2 chambres, 62 m²",
+    "titleAr": "إلاف سكاي فيو — شقة بغرفتي نوم، 62 م²",
+    "description": "Compact and intelligently planned 2-bedroom apartment of 62 m² in the Elaf Sky View development in Kénitra. Ideal first-home or rental investment, eligible for the Daam Sakani first-time buyer grant. Includes a walk-in closet in the master bedroom and access to the gated complex amenities.",
+    "descriptionFr": "Appartement 2 chambres de 62 m², compact et bien agencé, dans la résidence Elaf Sky View à Kénitra. Idéal premier achat ou investissement locatif, éligible à l'aide Daam Sakani pour primo-accédants. Comprend un dressing dans la chambre principale et l'accès aux parties communes de la résidence sécurisée.",
+    "descriptionAr": "شقة بغرفتي نوم بمساحة 62 م²، مدروسة الترتيب، في إقامة إلاف سكاي فيو بالقنيطرة. خيار مثالي للسكن الأول أو الاستثمار الإيجاري، ومؤهلة لدعم \"دعم سكني\" للمشتري الأول. تتضمن غرفة ملابس داخل الغرفة الرئيسية ومرافق مشتركة داخل الإقامة المغلقة.",
+    "city": "Kénitra",
+    "neighborhood": "Elaf Sky View",
+    "propertyType": "apartment",
+    "status": "off-plan",
+    "price": 700000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqm": 62,
+    "yearBuilt": 2026,
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600"
+    ],
+    "features": [
+      "Eligible for Daam Sakani",
+      "Walk-in closet (master bedroom)",
+      "2 bedrooms",
+      "1 bathroom",
+      "Gated residence",
+      "Lift",
+      "Parking"
+    ],
+    "featured": true,
+    "published": true
+  },
+  {
+    "slug": "elaf-sky-view-2bd-80m2-terrace-kenitra",
+    "title": "Elaf Sky View — 2 bedroom apartment, 80 m² + 21 m² terrace",
+    "titleFr": "Elaf Sky View — appartement 2 chambres, 80 m² + terrasse 21 m²",
+    "titleAr": "إلاف سكاي فيو — شقة بغرفتي نوم، 80 م² + شرفة 21 م²",
+    "description": "Generous 2-bedroom apartment of 80 m² with an exceptional 21 m² private terrace in the Elaf Sky View development in Kénitra. Bright living area, walk-in closet in the master bedroom, and a real outdoor space — perfect for buyers who want comfort and an outdoor extension at this price level.",
+    "descriptionFr": "Spacieux appartement 2 chambres de 80 m² avec une terrasse privative exceptionnelle de 21 m² dans la résidence Elaf Sky View à Kénitra. Séjour lumineux, dressing dans la chambre principale et un véritable espace extérieur — parfait pour les acquéreurs qui veulent du confort et une extension en plein air à ce niveau de prix.",
+    "descriptionAr": "شقة فسيحة بغرفتي نوم بمساحة 80 م² مع شرفة خاصة استثنائية بمساحة 21 م² في إقامة إلاف سكاي فيو بالقنيطرة. صالة مضيئة، وغرفة ملابس داخل غرفة النوم الرئيسية، وفضاء خارجي حقيقي — خيار مثالي لمن يبحث عن الراحة وامتداد خارجي ضمن هذه الفئة السعرية.",
+    "city": "Kénitra",
+    "neighborhood": "Elaf Sky View",
+    "propertyType": "apartment",
+    "status": "off-plan",
+    "price": 950000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqm": 80,
+    "yearBuilt": 2026,
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=1600",
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600"
+    ],
+    "features": [
+      "Private terrace 21 m²",
+      "Walk-in closet (master bedroom)",
+      "2 bedrooms",
+      "1 bathroom",
+      "Gated residence",
+      "Lift",
+      "Parking"
+    ],
+    "featured": false,
+    "published": true
+  }
+]
